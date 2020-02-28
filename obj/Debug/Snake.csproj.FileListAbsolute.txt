@@ -1,0 +1,6 @@
+C:\Users\Митя\Desktop\Game dev\OOP\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Митя\Desktop\Game dev\OOP\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Митя\Desktop\Game dev\OOP\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Митя\Desktop\Game dev\OOP\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Митя\Desktop\Game dev\OOP\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Митя\Desktop\Game dev\OOP\Snake\Snake\obj\Debug\Snake.pdb
